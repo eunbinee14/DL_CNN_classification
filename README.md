@@ -12,15 +12,18 @@
 ## 1. Development Environment Assign
 - Google Colaboratory
 - python 3.10.12
+  
 </br></br>
 
 ## 2. Data
 - ImageNet
 - Fine Tuning : Cifar-10
+
 </br></br>
 
 ## 3. Model
 - ResNet50
+
 </br></br>
 
 ## 4. Fine Tuning
@@ -30,6 +33,7 @@
 4. optimizer adam
    - weight decay = 0.001
    - learning rate = 0.0001
+
 </br></br>
 
 ## 5. Modeling Result
@@ -37,6 +41,7 @@
 accuracy : 81.90%  
 Predicted : dog  
 True : dog
+
 </br></br>
 
 ## 6. Serving
@@ -45,6 +50,7 @@ True : dog
 2. Resize
      - (224, 224)
 3. Batch Normalization
+
 </br></br>
 
 ## 7. Web Serving Result
