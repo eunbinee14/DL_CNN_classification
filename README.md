@@ -27,10 +27,11 @@ True : dog
 
 ## 6. Serving
 1. State dict
-  - fine_tuned_resnet50_cifar10_best_5.pth
+     - fine_tuned_resnet50_cifar10_best_5.pth
 2. Resize
-  - (224, 224)
+     - (224, 224)
 3. Batch Normalization
 
 ## 7. Web Serving Result
-![image](https://github.com/user-attachments/assets/48f88964-ef7b-40f2-a113-ecceb562b4e6)
+![image](https://github.com/user-attachments/assets/a2651345-2723-4845-baa2-b290ba5037e2)
+
