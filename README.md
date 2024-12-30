@@ -1,4 +1,5 @@
 # DL_CNN_classification_Serving
+- 2024년 4학년 2학기 딥러닝 기반 데이터 분석 CNN 아카이빙 레포지토리입니다. 
 
 ## Project Information
 1. 이미지 학습인 CNN 중 classfication 이용  
