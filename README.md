@@ -4,8 +4,6 @@
 - Google Colaboratory
 - python 3.10.12
 
-<br/><br/>
-
 ## 2. Data
 - ImageNet
 - Fine Tuning : Cifar-10
