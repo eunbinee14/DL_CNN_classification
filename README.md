@@ -26,7 +26,7 @@
 
 </br></br>
 
-## 4. Fine Tuning
+## 4. Fine Tuning & Hyper Parameter Tuning 
 1. Batch Normalization
 2. Gradient clipping
 3. batch size = 32
