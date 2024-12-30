@@ -1,7 +1,9 @@
 # DL_CNN_classification_Serving
-> 1. 이미지 학습인 CNN 중 classfication 이용  
-      2. 추가한 Dog1 이미지 파인튜닝과 성능을 높이기 위한 하이퍼파라이터튜닝 진행  
-      3. 웹 서빙 구현
+
+## Project Information
+1. 이미지 학습인 CNN 중 classfication 이용  
+2. 추가한 Dog1 이미지 파인튜닝과 성능을 높이기 위한 하이퍼파라이터튜닝 진행  
+3. 웹 서빙 구현
   
 ## 1. Development Environment Assign
 - Google Colaboratory
