@@ -38,9 +38,9 @@
 
 ## 5. Modeling Result
 ![image](https://github.com/user-attachments/assets/3d4ae3d7-67ee-458e-898d-11e55b912a69)
-accuracy : 81.90%  
-Predicted : dog  
-True : dog
+**accuracy : 81.90%**  
+**Predicted : dog**  
+**True : dog**
 
 </br></br>
 
