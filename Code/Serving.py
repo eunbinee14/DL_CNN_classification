@@ -73,7 +73,7 @@ def test_image():
 test_image()
 
 
-@app.get("/test")
+@app.get("/")
 async def read_root(request: Request):
     predicted, label = test_image()
     result = f'Predicted: {CIFAR10_CLASSES[predicted]}  True: {CIFAR10_CLASSES[label]}'
